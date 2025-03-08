@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning distributed system.
+- 🔭 I’m currently working on xxx.
+- 🌱 I’m currently develop RAG and Agent.
 - 🐈 Coding make world better.
 
 
