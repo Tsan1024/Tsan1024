@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 ## Programming Languages
 
-<!-- C++ Icon --> <!-- Go Icon -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="50" height="50">
+AI
 
