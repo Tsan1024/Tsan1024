@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on xxx.
-- 🌱 I’m currently develop RAG and Agent.
-- 🐈 Coding make world better.
+🔭 Now: Craft xxx.
+
+🌱 Focus: Use less token create more value
+
+🐈 Vision: Make the profound, simple.
 
 
 ## Programming Languages
 
-AI
+consume tokens
 
